@@ -1,5 +1,6 @@
 public class StashCommand
 {
+<<<<<<< Updated upstream
   String getStashId()
 	   {
 	   return stashId;
@@ -35,4 +36,9 @@ public class StashCommand
 	   void clearAllStash()
 	   {
 	   }
+=======
+	 String stashId;
+  String stashName;
+  String stashMessg;
+>>>>>>> Stashed changes
 }
